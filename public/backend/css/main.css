@@ -1,0 +1,7 @@
+.file-image::-webkit-file-upload-button {
+  visibility: hidden;
+  padding-left: -50px;
+  padding-top: 2px;
+  position: absolute;
+}
+/*# sourceMappingURL=main.css.map */
